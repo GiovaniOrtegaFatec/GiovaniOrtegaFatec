@@ -1,4 +1,3 @@
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Olá, eu sou o Giovani!!!" alt="Typing SVG" /></a>
 <p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Bem+vindo ao meu Github" alt="Typing SVG" /></a>
 </p> 
