@@ -1,7 +1,3 @@
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial+Code&size=30&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Bem+vindo ao meu Github" alt="Typing SVG" /></a>
-</p> 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/giovani-ortega-59384a249)
 <div>
   
